@@ -1,0 +1,11 @@
+build:
+  version: 1.0.0
+
+loans:
+  message: "Welcome to Eazy Bank Loans API"
+  contactDetails:
+    name: "Eazy Bank Loans"
+    email: "loans@eazybank.com"
+  onCallSupport:
+    - "+1 800 123 4567"
+    - "+1 800 123 4568"

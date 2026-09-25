@@ -1,0 +1,10 @@
+build:
+  version: 2.0.0
+
+loans:
+  message: "Welcome to Eazy Bank Loans QA API"
+  contactDetails:
+    name: "Sarah Fowler, QA Lead"
+    email: "sarah.fowler@eazybank.com"
+  onCallSupport:
+    - "+1 800 123 4567"

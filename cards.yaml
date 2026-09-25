@@ -1,0 +1,10 @@
+build:
+  version: 3.0.0
+
+cards:
+  message: "Welcome to Eazy Bank Cards Dev API"
+  contactDetails:
+    name: "John Doe"
+    email: "john.doe@eazybank.com"
+  onCallSupport:
+    - "+1 123 456 7890"

@@ -1,0 +1,10 @@
+build:
+  version: 3.0.0
+
+loans:
+  message: "Welcome to Eazy Bank Loans Dev API"
+  contactDetails:
+    name: "Rajesh Reddy, Tech Lead"
+    email: "rajesh.reddy@eazybank.com"
+  onCallSupport:
+    - "(+1) 800 123 1211"
