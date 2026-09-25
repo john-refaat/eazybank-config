@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to Eazy Bank accounts API"
   contactDetails:
     name: "Priya Koothrapali - Product Owner"
-    email: "priya.koothrapali@eazybank.com"
+    email: "{cipher}953275f0e62258bb6df11f89e890d3b8307dbcfc37c937534dfdaffb74f380b5b1b94bdc3cb0737ea19bbf201a963ee8"
   onCallSupport:
     - (555) 555-1111
