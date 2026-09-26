@@ -2,10 +2,10 @@ build:
   version: 1.0.0
 
 cards:
-  message: "Welcome to Eazy Bank Cards Prod API"
+  message: "Welcome to Eazy Bank Cards Production API"
   contactDetails:
     name: "Cards Support Team"
     email: "cards@eazybank.com"
   onCallSupport:
     - "+1 111 223 1111"
-    - "+1 122 322 1111"
+    - "+1 122 322 1112"
