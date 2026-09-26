@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to Eazy Bank Cards Production API"
   contactDetails:
-    name: "Sandra Harald - Product Owner"
-    email: "sandra@eazybank.com"
+    name: "Sandra Lee - Product Owner"
+    email: "sandra.lee@eazybank.com"
   onCallSupport:
     - "+1 111 223 1111"
     - "+1 122 322 1112"
