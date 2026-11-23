@@ -1,8 +1,8 @@
 build:
-  version: 3.0.0
+  version: 3.0.1
 
 loans:
-  message: "Welcome to Eazy Bank Loans Dev API"
+  message: "Hello! Welcome to Eazy Bank Loans Dev API"
   contactDetails:
     name: "Rajesh Reddy, Tech Lead"
     email: "rajesh.reddy@eazybank.com"
