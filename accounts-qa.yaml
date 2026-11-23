@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Eazy Bank accounts QA API"
+  message: "Hello! Welcome to Eazy Bank accounts QA API"
   contactDetails:
     name: "Samantha Ray - QA Lead"
     email: "{cipher}1ee38576181e65b49c8449ea99671e4d6c11149f29fa3e78cf661f4577d5b868721f33a0f099ab159b18df341ce30e7f"
