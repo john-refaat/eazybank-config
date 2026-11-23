@@ -2,7 +2,7 @@ build:
   version: 2.0.0
 
 cards:
-  message: "Welcome to Eazy Bank Cards QA API"
+  message: "Hello! Welcome to Eazy Bank Cards QA API"
   contactDetails:
     name: "Jasmin Joe"
     email: "jasmin.joe@eazybank.com"
