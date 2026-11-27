@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to Eazy Bank Cards Dev API"
   contactDetails:
-    name: "John Doe"
-    email: "john.doe@eazybank.com"
+    name: "Monica Geller - Quality Lead"
+    email: "monica.geller@eazybank.com"
   onCallSupport:
     - "+1 123 456 7890"
